@@ -1,6 +1,8 @@
 # framingham_heart_study
 
-Link: https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
+##### https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
+
+##### CSV added in the repo if you want to download from here. 
 
 
 # Variables in the Dataset: 
